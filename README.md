@@ -2,8 +2,7 @@
 
 **A federated, regenerative-agriculture digital public good for BRICS nations.**
 
-Built by **Team VIDYUT** (Apratim Mitra — Team Lead, Sagnik Mitra, Dibyendu
-Chowdhury, Goutam Kumar Bose) for **Track 4: AgriN & Regenerative
+Built by **Team VIDYUT** (Apratim Mitra — Team Lead, Dibyendu Chowdhury, Goutam Kumar Bose) for **Track 4: AgriN & Regenerative
 Agricultural Intelligence** at *Build with AI: Code for Communities —
 Second Edition* (hack2skill).
 
